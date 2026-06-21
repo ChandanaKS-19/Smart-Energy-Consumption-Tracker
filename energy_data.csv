@@ -1,0 +1,8 @@
+Device,Power_Watts,Hours_Per_Day
+Fan,75,10
+LED Bulb,10,8
+TV,120,4
+Refrigerator,200,24
+Washing Machine,500,1
+AC,1500,6
+Laptop,65,5
